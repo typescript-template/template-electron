@@ -7,3 +7,4 @@ doc*/
 node_modules/
 
 *.md
+index.js
